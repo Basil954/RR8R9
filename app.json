@@ -1,7 +1,7 @@
 {
-    "name": "سورس فريدوم بوت",
+    "name": "سورس باسل بوت",
     "description": "تشغيل الاغاني في المجموعات",
-    "logo": "https://te.legra.ph/file/46fa55b49b85c084159ce.jpg",
+    "logo": "https://te.legra.ph/file/5bb6cddbf456c04875cf4.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/xl444",
-    "repository": "https://github.com/muntazer995/RR8R9",
-    "success_url": "https://t.me/rr8r9",
+    "website": "https://t.me/Xl441",
+    "repository": "https://github.com/Basil954/MORFE8",
+    "success_url": "https://t.me/MORFE8",
     "env": {
      "API_ID": {
             "description": "لاتغيرها ابدا",
